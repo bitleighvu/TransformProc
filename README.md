@@ -1,5 +1,5 @@
-# TransformProc
-CS3451 Transformation in Processing
+# Transformation Mini-Library
+CS3451 Transformation Mini-Library in Processing
 
 ### Project Description ### 
 Create graphics library that is similar in design to OpenGL for transformation, projection, and mapping to the screen of user-provided lines.
